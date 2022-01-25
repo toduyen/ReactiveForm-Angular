@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "projects": {
+    "reactive-angular": "apps/reactive-angular",
+    "reactive-angular-e2e": "apps/reactive-angular-e2e"
+  },
+  "styles": {
+    "input": "node_modules/@angular/material/prebuilt-themes/indigo-pink.css"
+  }
+}
